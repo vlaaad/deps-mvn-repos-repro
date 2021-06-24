@@ -1,1 +1,4 @@
-{:deps {repro/lib {:local/root "../lib"}}}
+{:deps {repro/lib {:git/url "https://github.com/vlaaad/deps-mvn-repos-repro.git"
+                   :sha "05279fb2615a82c27c21c7916416029356a136dc"
+                   :deps/root "lib"}
+        #_{:local/root "../lib"}}}

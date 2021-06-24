@@ -1,3 +1,3 @@
 {:deps {repro/lib {:git/url "https://github.com/vlaaad/deps-mvn-repos-repro.git"
-                   :sha "05279fb2615a82c27c21c7916416029356a136dc"
+                   :sha "a95ed139d32d72ed5733b160f5e27ed5a40d8931"
                    :deps/root "lib"}}}

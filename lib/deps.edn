@@ -1,0 +1,2 @@
+{:mvn/repos {"enonic" {:url "https://repo.enonic.com/public/"}}
+ :deps {io.xapix/paos {:mvn/version "0.2.4"}}}
